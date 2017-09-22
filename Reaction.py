@@ -1,1 +1,1 @@
-#Group for all cgemical reactions
+#Group for all chemical reactions
